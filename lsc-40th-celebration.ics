@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Leadership Stark County//40th Celebration//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:lsc-40th-celebration-20270506@leadershipstarkcounty.org
+DTSTAMP:20261113T165709Z
+DTSTART:20270506T200000Z
+DTEND:20270507T000000Z
+SUMMARY:Leadership Stark County 40th Celebration: Legacy Takes Flight
+LOCATION:Akron-Canton Airport\, 5400 Lauby Road\, North Canton\, OH 44720
+DESCRIPTION:GET TICKETS ($40\, includes heavy hors d'oeuvres): https://busi
+ ness.cantonchamber.org/ap/Events/Register/KVFVjYdInCBCW\n\nLegacy Takes Fl
+ ight: Celebrating 40 Years of Leadership in Motion\n\nAn open house celebr
+ ation of 40 years of Leadership Stark County with alumni from four decades
+ \, community partners\, colleagues\, family and friends. Arrive and depart
+  at your convenience.\n\n- Heavy hors d'oeuvres and a cash bar\n- Premiere
+  of a short documentary celebrating 40 years of LSC\n- Complimentary parki
+ ng in the airport's short-term lot\, with shuttle service\n\nProceeds supp
+ ort Leadership Stark County scholarships and future program development.\n
+ \nQuestions: julia@leadershipstarkcounty.org | 330-458-2093\nEvent details
+ : https://business.cantonchamber.org/event-calendar/Details/leadership-sta
+ rk-county-40th-celebration-event-1959643
+URL:https://business.cantonchamber.org/ap/Events/Register/KVFVjYdInCBCW
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:LSC 40th Celebration tomorrow
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR
